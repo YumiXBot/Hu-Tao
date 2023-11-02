@@ -24,9 +24,9 @@ SUDO = list({int(x)for x in ("").split()})
 
 SUPPORT_CHAT = "NovaSupports" # SUPPORT GROUP (ID OR USERNAME)
 
-LOG_CHANNEL_ID = -1001816188874 #LOG GROUP ID FOR YOUR BOT
+LOG_CHANNEL_ID = -1001603822916 #LOG GROUP ID FOR YOUR BOT
 
-OWNER = list({int(x)for x in ("6149191605").split()}) #OWNER ID
+OWNER = list({int(x)for x in ("6079943111").split()}) #OWNER ID
 
 DB_URL = "" # MONGO DB URL
 

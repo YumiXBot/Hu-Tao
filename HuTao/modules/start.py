@@ -36,8 +36,8 @@ home_keyboard_pm = InlineKeyboardMarkup(
             InlineKeyboardButton(text="ADD ME",url=f"http://t.me/{BOT_USERNAME}?startgroup=new")
         ],
         [
-            InlineKeyboardButton(text="DEVELOPER", url="https://t.me/KIRITO1240"),
-            InlineKeyboardButton(text="SOURCE",url="https://t.me/NovaNetworks"),
+            InlineKeyboardButton(text="DEVELOPER", url="https://t.me/ALONE_WAS_BOT"),
+            InlineKeyboardButton(text="SOURCE",url="https://t.me/AloneXBots"),
         ],
         [
             InlineKeyboardButton(text="HELP", callback_data="help_commands")           
